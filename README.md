@@ -14,4 +14,4 @@ This application supports the following sorting algorithms:
 4. **Merge Sort**.
 5. **Quick Sort**.
 
-![Landing Page](assets/screenshots/sort.png)
+![Landing Page](sort.png)
